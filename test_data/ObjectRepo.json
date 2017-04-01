@@ -1,0 +1,21 @@
+{
+    "loginpage":{
+        "username":"text1",
+        "password":"text2",
+        "loginbutton":"submit1"
+
+    },
+
+    "servicePage":{
+        "repairService":"repairSer"
+    },
+
+    "serviceDesc":{
+        "name":"text1",
+        "email":"text2",
+        "contact":"text3",
+        "address":"text4",
+        "description":"text5",
+        "submitbutton":"//input[@value='Submit request']"
+    }
+}
